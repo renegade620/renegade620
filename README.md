@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 🔹 Exploring the intersections of tech, leadership, and impact
 🔹 Always learning, always growing
 
-🌱 Currently learning into Cloud and Social Impact Strategy
+🌱 Currently learning Cloud and Social Impact Strategy
 📌 Open to collaborations and new opportunities
 💬 Let's connect: [LinkedIn](https://www.linkedin.com/in/omondi-were/) | [GitHub](https://github.com/renegade620)
 
