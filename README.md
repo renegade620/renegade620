@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 🌱 Currently learning Cloud and Social Impact Strategy
 📌 Open to collaborations and new opportunities
-💬 Let's connect: [LinkedIn](https://www.linkedin.com/in/omondi-were/) | [GitHub](https://github.com/renegade620)
+💬 Let's connect: [LinkedIn](https://www.linkedin.com/in/omondi-were/)
+<!--| [GitHub](https://github.com/renegade620) -->
 
 
 
