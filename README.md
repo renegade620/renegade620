@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Frankline Were
+## Hi there! I'm Frankline Were
 
 <!--
 **renegade620/renegade620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 Fullstack (Backend) Developer | Python Enthusiast | Lifelong Learner
+Fullstack (Backend) Developer | Python Enthusiast | DevOps Engineer
 
 🔹 Passionate about building robust and scalable backend systems
 🔹 Exploring the intersections of tech, leadership, and impact
 🔹 Always learning, always growing
 
-🌱 Currently learning Cloud and Social Impact Strategy
-📌 Open to collaborations and new opportunities
-💬 Let's connect: [LinkedIn](https://www.linkedin.com/in/omondi-were/)
+ Currently learning UX
+ Open to collaborations and new opportunities
+ Let's connect: [LinkedIn](https://www.linkedin.com/in/omondi-were/)
 <!--| [GitHub](https://github.com/renegade620) -->
 
 
