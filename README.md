@@ -24,7 +24,9 @@ Fullstack (Backend) Developer | Python Enthusiast | DevOps Engineer
 🔹 Always learning, always growing
 
  Currently learning UX
+ 
  Open to collaborations and new opportunities
+ 
  Let's connect: [LinkedIn](https://www.linkedin.com/in/omondi-were/)
 <!--| [GitHub](https://github.com/renegade620) -->
 
