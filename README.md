@@ -20,6 +20,7 @@ Fullstack (Backend) Developer | Python Enthusiast | DevOps Engineer
 🔹 Passionate about building robust and scalable backend systems
 
 🔹 Exploring the intersections of tech, leadership, and impact
+
 🔹 Always learning, always growing
 
  Currently learning UX
