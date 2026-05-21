@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 Fullstack (Backend) Developer | Python Enthusiast | DevOps Engineer
 
 🔹 Passionate about building robust and scalable backend systems
+
 🔹 Exploring the intersections of tech, leadership, and impact
 🔹 Always learning, always growing
 
