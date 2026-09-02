@@ -16,11 +16,11 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, TypeScript, Java, C, C#/.NET  
-**Frameworks:** Flask, Django, React, Node.js, .NET  
+**Languages:** Python, JavaScript, TypeScript 
+**Frameworks:** Flask, Django, React, Node.js
 **Databases:** PostgreSQL, MySQL, SQLite, MongoDB  
-**DevOps & Cloud:** Docker, GitHub Actions, AWS (ECS, Fargate, ECR, ALB, RDS, S3/CloudFront, SQS), Kubernetes, Terraform, Rancher  
-**Tools:** Git, GitHub, GitLab, Postman, Docker Compose, Linux
+**DevOps & Cloud:** Docker, GitHub Actions, AWS, Kubernetes, Rancher  
+**Tools:** Git, GitHub, Postman, Docker Compose, Linux
 
 ### 💼 Featured Projects
 
@@ -32,14 +32,6 @@
 
 - **[Sauti ya Bajeti](https://github.com/renegade620/renegade620)** - Microservices architecture with Node.js, Kafka, Redis, and Docker (Public finance tool)
 
-### 🎓 Education
-
-- **Moringa School** - Software Development Bootcamp (06/2024 - 11/2024) | Nairobi
-- **Catholic University of Eastern Africa** - Bachelor's in Computer Science (09/2019 - 10/2023) | Nairobi
-
-### 🏆 Certifications
-
-- **KCNA: Kubernetes and Cloud Native Associate** - The Linux Foundation
 
 ### 📈 Currently
 
@@ -51,7 +43,5 @@
 ### 📫 Let's Connect
 
 - **Email:** franklinegift@gmail.com
-- **Phone:** +254706188401
 - **Location:** Nairobi, Kenya
 - **LinkedIn:** [linkedin.com/in/omondi-were](https://www.linkedin.com/in/omondi-were/)
-- **GitHub:** [github.com/renegade620](https://github.com/renegade620)
