@@ -1,21 +1,8 @@
 ## Hi there! I'm Frankline Were
 
-**DevOps & Software Developer** | Python Enthusiast | Cloud-Native Enthusiast
-
-### About Me
-
-🔹 **Fullstack (Backend) Developer** with hands-on experience in AWS, Docker, CI/CD, and backend development using Python, Node.js, and TypeScript
-
-🔹 **DevOps Engineer** - Proficient in containerization, orchestration, and cloud infrastructure automation
-
-🔹 **AI/ML Enthusiast** - Currently exploring AI-powered solutions and building intelligent applications
-
-🔹 **Passionate about building robust, scalable systems** that solve real-world problems
-
-🔹 Always learning, always growing
+**DevOps & Software Developer** | Python & Cloud-Native Enthusiast
 
 ### 🛠️ Tech Stack
-
 **Languages:** Python, JavaScript, TypeScript 
 **Frameworks:** Flask, Django, React, Node.js
 **Databases:** PostgreSQL, MySQL, SQLite, MongoDB  
@@ -32,13 +19,6 @@
 
 - **[Sauti ya Bajeti](https://github.com/renegade620/renegade620)** - Microservices architecture with Node.js, Kafka, Redis, and Docker (Public finance tool)
 
-
-### 📈 Currently
-
-- ✅ Building cloud-native applications with Kubernetes and Docker
-- ✅ Contributing to open-source DevOps and backend projects
-- ✅ Exploring advanced UX/UI design patterns
-- ✅ Open to collaborations and new opportunities
 
 ### 📫 Let's Connect
 
